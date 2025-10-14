@@ -7,6 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 	std::cout << "もう一回Hello World!\n";
+	std::cout <<"プルリクエストのテスト\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
